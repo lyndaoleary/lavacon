@@ -1,4 +1,4 @@
-## Welcome to the demo
+# Welcome to the demo
 Useful commands
 # Configuring Git
 `git config --global user.name "Username"` - defines name attached to your commit.
